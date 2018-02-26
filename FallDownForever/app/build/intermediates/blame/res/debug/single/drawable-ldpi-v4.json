@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/d/AndroidStudioProjects/FallDownForever/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/brick.png",
+        "source": "/home/d/AndroidStudioProjects/FallDownForever/app/src/main/res/drawable-ldpi/brick.png"
+    },
+    {
+        "merged": "/home/d/AndroidStudioProjects/FallDownForever/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/face.png",
+        "source": "/home/d/AndroidStudioProjects/FallDownForever/app/src/main/res/drawable-ldpi/face.png"
+    }
+]
